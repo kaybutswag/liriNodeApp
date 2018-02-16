@@ -52,7 +52,7 @@ Use:
 2. spotify-this-song and movie-this can take values of songs and movies, respectively, but they MUST BE IN QUOTES. There will be suggestions if your input is invalid
 
 Examples:
- you could type "node liri.js movie-this 'home alone'"or
+ In your command line of your bash or terminal, you could type "node liri.js movie-this 'home alone'"or
  "node liri.js my-tweets"
 
 
