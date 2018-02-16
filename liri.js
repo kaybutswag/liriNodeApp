@@ -115,7 +115,6 @@ function findMovie(value){
 	request(queryUrl, function(error, response, body) {
 // gets Mr. Nobody
 	if(value===undefined){
-		console.log("test");
 		queryUrl = "http://www.omdbapi.com/?i=tt0485947&y&plot=short&apikey=trilogy";
 
 		request(queryUrl, function(error, response, body) {
